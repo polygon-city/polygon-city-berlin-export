@@ -1,0 +1,47 @@
+# {"id":"DEB_LOD2_UUID_12cf6aef-50ef-40e1-bfe3-9696870ac0f9","idOriginal":"DEB_LOD2_UUID_12cf6aef-50ef-40e1-bfe3-9696870ac0f9","origin":[13.41599007323915,52.523716294855994],"elevation":36.987}
+# Longitude: 13.41599007323915
+# Latitude: 52.523716294855994
+# Elevation: 36.987
+
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.0)
+
+mtllib DEB_LOD2_UUID_12cf6aef-50ef-40e1-bfe3-9696870ac0f9.obj.mtl
+
+# 8 vertex positions
+v  8.026 9 -4.067
+v  0 9 5.51091e-16
+v  3.144 9 2.39
+v  4.981 9 -6.394
+v  4.981 3.9152e-16 -6.394
+v  3.144 -1.46345e-16 2.39
+v  0 0 0
+v  8.026 2.49032e-16 -4.067
+
+# 0 UV coordinates
+
+# 7 vertex normals
+vn 0 1 0
+vn 1.32319e-23 -1 -6.12323e-17
+vn 1.36521e-23 -1 -6.12323e-17
+vn 0.797667 0 0.603099
+vn 0.607198 0 -0.79455
+vn -0.605173 0 0.796094
+vn -0.78888 0 -0.614547
+
+# Mesh 'defaultobject' with 12 faces
+g defaultobject
+usemtl DefaultMaterial
+f  1//1 2//1 3//1
+f  2//1 1//1 4//1
+f  5//2 6//2 7//2
+f  6//2 5//2 8//3
+f  3//4 8//4 1//4
+f  8//4 3//4 6//4
+f  1//5 5//5 4//5
+f  5//5 1//5 8//5
+f  2//6 6//6 3//6
+f  6//6 2//6 7//6
+f  4//7 7//7 2//7
+f  7//7 4//7 5//7
+
